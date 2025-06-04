@@ -1,0 +1,21 @@
+{
+    "name": "ngoma/date-formatter",
+    "description": "Simple date formatter (Formatador simples de data)",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Ngomafortuna\\DateFormatter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngoma Fortuna",
+            "email": "ngomafortuna@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0"
+    }
+}
